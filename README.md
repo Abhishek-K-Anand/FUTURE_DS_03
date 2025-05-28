@@ -1,5 +1,13 @@
 # 🚦 Road Accident Analysis Project
 
+
+<p align="center">
+  <img src="Road_Accident_Analysis/Road%20Accident%20Analysis_page-0001.jpg" alt="Road Accident Dashboard" width="800"/>
+</p>
+
+
+
+
 ## 📌 Project Overview
 This project analyzes UK road accident data (2021–2022) using **Power BI** and **Python** (Matplotlib & Seaborn).  
 We explored how weather, lighting, road types, and vehicle types affect accident rates.  
