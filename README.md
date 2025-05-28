@@ -9,7 +9,7 @@
 
 
 ## 📌 Project Overview
-This project analyzes UK road accident data (2021–2022) using **Power BI** and **Python** (Matplotlib & Seaborn).  
+This project analyzes road accident data (2021–2022) using **Power BI** and **Python** (Matplotlib & Seaborn).  
 We explored how weather, lighting, road types, and vehicle types affect accident rates.  
 The goal is to turn raw data into clear visuals to help reduce accidents and improve road safety.
 
